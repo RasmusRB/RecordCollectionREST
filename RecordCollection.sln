@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordLib", "RecordLib\Reco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordREST", "RecordREST\RecordREST.csproj", "{D8504276-3C6A-4E90-A904-299E3EAC3C25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTTests", "RESTTests\RESTTests.csproj", "{21A8D7B3-083F-457E-8357-4C6589A01ADB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D8504276-3C6A-4E90-A904-299E3EAC3C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8504276-3C6A-4E90-A904-299E3EAC3C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8504276-3C6A-4E90-A904-299E3EAC3C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A8D7B3-083F-457E-8357-4C6589A01ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A8D7B3-083F-457E-8357-4C6589A01ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A8D7B3-083F-457E-8357-4C6589A01ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A8D7B3-083F-457E-8357-4C6589A01ADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
