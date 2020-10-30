@@ -15,5 +15,11 @@ namespace RESTTests
 
             Assert.AreEqual(2006, control);
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+
+        }
     }
 }
